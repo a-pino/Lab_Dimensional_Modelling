@@ -1,43 +1,43 @@
 payment_id,student_id,payment_status
 1,1,On Time
 2,1,On Time
-3,1,On Time
-4,1,Late
+3,1,Late
+4,1,On Time
 5,1,On Time
 6,2,On Time
 7,2,On Time
 8,2,On Time
 9,2,On Time
-10,2,Late
+10,2,On Time
 11,3,On Time
-12,3,On Time
-13,3,On Time
-14,3,Late
+12,3,Late
+13,3,Late
+14,3,On Time
 15,3,On Time
-16,4,On Time
-17,4,Late
+16,4,Late
+17,4,On Time
 18,4,On Time
 19,4,On Time
 20,4,On Time
 21,5,On Time
 22,5,On Time
-23,5,Late
+23,5,On Time
 24,5,On Time
 25,5,On Time
 26,6,On Time
 27,6,On Time
 28,6,On Time
 29,6,On Time
-30,6,On Time
+30,6,Late
 31,7,On Time
-32,7,Late
-33,7,Late
+32,7,On Time
+33,7,On Time
 34,7,On Time
 35,7,On Time
 36,8,Late
 37,8,On Time
 38,8,On Time
-39,8,On Time
+39,8,Late
 40,8,On Time
 41,9,On Time
 42,9,On Time
@@ -48,18 +48,18 @@ payment_id,student_id,payment_status
 47,10,On Time
 48,10,On Time
 49,10,On Time
-50,10,Late
+50,10,On Time
 51,11,On Time
 52,11,On Time
 53,11,On Time
 54,11,On Time
 55,11,On Time
-56,12,Late
+56,12,On Time
 57,12,On Time
 58,12,On Time
-59,12,Late
+59,12,On Time
 60,12,On Time
-61,13,On Time
+61,13,Late
 62,13,On Time
 63,13,On Time
 64,13,On Time
@@ -70,134 +70,134 @@ payment_id,student_id,payment_status
 69,14,On Time
 70,14,On Time
 71,15,On Time
-72,15,On Time
+72,15,Late
 73,15,On Time
 74,15,On Time
-75,15,On Time
+75,15,Late
 76,16,On Time
 77,16,On Time
 78,16,On Time
 79,16,On Time
 80,16,On Time
-81,17,Late
+81,17,On Time
 82,17,On Time
 83,17,On Time
 84,17,On Time
-85,17,On Time
+85,17,Late
 86,18,On Time
 87,18,On Time
 88,18,On Time
 89,18,On Time
 90,18,On Time
 91,19,On Time
-92,19,Late
+92,19,On Time
 93,19,On Time
 94,19,On Time
-95,19,Late
+95,19,On Time
 96,20,On Time
 97,20,On Time
-98,20,On Time
+98,20,Late
 99,20,On Time
 100,20,On Time
 101,21,On Time
 102,21,On Time
-103,21,On Time
-104,21,On Time
-105,21,Late
+103,21,Late
+104,21,Late
+105,21,On Time
 106,22,On Time
 107,22,On Time
 108,22,On Time
-109,22,On Time
+109,22,Late
 110,22,On Time
 111,23,On Time
 112,23,On Time
-113,23,On Time
+113,23,Late
 114,23,On Time
 115,23,On Time
 116,24,On Time
 117,24,On Time
-118,24,Late
-119,24,On Time
+118,24,On Time
+119,24,Late
 120,24,On Time
 121,25,On Time
 122,25,On Time
-123,25,Late
-124,25,Late
-125,25,On Time
+123,25,On Time
+124,25,On Time
+125,25,Late
 126,26,On Time
 127,26,On Time
 128,26,On Time
-129,26,Late
+129,26,On Time
 130,26,On Time
 131,27,On Time
 132,27,On Time
 133,27,Late
 134,27,On Time
-135,27,On Time
+135,27,Late
 136,28,On Time
 137,28,On Time
 138,28,On Time
-139,28,Late
+139,28,On Time
 140,28,On Time
 141,29,On Time
-142,29,On Time
+142,29,Late
 143,29,On Time
-144,29,On Time
-145,29,Late
+144,29,Late
+145,29,On Time
 146,30,On Time
 147,30,On Time
-148,30,On Time
+148,30,Late
 149,30,On Time
 150,30,On Time
 151,31,On Time
 152,31,On Time
-153,31,Late
+153,31,On Time
 154,31,On Time
-155,31,Late
+155,31,On Time
 156,32,On Time
 157,32,On Time
-158,32,On Time
+158,32,Late
 159,32,On Time
-160,32,On Time
+160,32,Late
 161,33,On Time
 162,33,Late
 163,33,On Time
-164,33,Late
+164,33,On Time
 165,33,On Time
-166,34,On Time
+166,34,Late
 167,34,On Time
-168,34,Late
-169,34,On Time
+168,34,On Time
+169,34,Late
 170,34,On Time
 171,35,On Time
-172,35,On Time
+172,35,Late
 173,35,On Time
 174,35,On Time
 175,35,On Time
 176,36,On Time
-177,36,On Time
-178,36,Late
-179,36,On Time
-180,36,Late
+177,36,Late
+178,36,On Time
+179,36,Late
+180,36,On Time
 181,37,On Time
-182,37,Late
+182,37,On Time
 183,37,On Time
 184,37,On Time
 185,37,On Time
-186,38,Late
+186,38,On Time
 187,38,On Time
 188,38,On Time
-189,38,Late
+189,38,On Time
 190,38,On Time
-191,39,On Time
-192,39,Late
+191,39,Late
+192,39,On Time
 193,39,On Time
 194,39,On Time
 195,39,On Time
 196,40,On Time
 197,40,Late
 198,40,On Time
-199,40,Late
+199,40,On Time
 200,40,On Time
 201,41,On Time
 202,41,On Time
@@ -207,18 +207,18 @@ payment_id,student_id,payment_status
 206,42,On Time
 207,42,On Time
 208,42,On Time
-209,42,On Time
+209,42,Late
 210,42,On Time
-211,43,Late
-212,43,On Time
+211,43,On Time
+212,43,Late
 213,43,On Time
 214,43,On Time
 215,43,On Time
-216,44,On Time
-217,44,Late
+216,44,Late
+217,44,On Time
 218,44,On Time
 219,44,On Time
-220,44,On Time
+220,44,Late
 221,45,On Time
 222,45,On Time
 223,45,On Time
@@ -226,19 +226,19 @@ payment_id,student_id,payment_status
 225,45,On Time
 226,46,On Time
 227,46,On Time
-228,46,On Time
-229,46,Late
+228,46,Late
+229,46,On Time
 230,46,On Time
 231,47,On Time
-232,47,Late
-233,47,On Time
+232,47,On Time
+233,47,Late
 234,47,On Time
 235,47,On Time
-236,48,Late
+236,48,On Time
 237,48,On Time
 238,48,On Time
 239,48,On Time
-240,48,Late
+240,48,On Time
 241,49,On Time
 242,49,On Time
 243,49,On Time
@@ -246,12 +246,12 @@ payment_id,student_id,payment_status
 245,49,On Time
 246,50,On Time
 247,50,On Time
-248,50,Late
+248,50,On Time
 249,50,On Time
-250,50,On Time
+250,50,Late
 251,51,On Time
 252,51,On Time
-253,51,Late
+253,51,On Time
 254,51,On Time
 255,51,On Time
 256,52,On Time
@@ -262,13 +262,13 @@ payment_id,student_id,payment_status
 261,53,On Time
 262,53,On Time
 263,53,On Time
-264,53,On Time
+264,53,Late
 265,53,On Time
 266,54,On Time
 267,54,On Time
 268,54,On Time
-269,54,On Time
-270,54,Late
+269,54,Late
+270,54,On Time
 271,55,On Time
 272,55,On Time
 273,55,On Time
@@ -277,17 +277,17 @@ payment_id,student_id,payment_status
 276,56,On Time
 277,56,On Time
 278,56,On Time
-279,56,On Time
+279,56,Late
 280,56,On Time
-281,57,On Time
+281,57,Late
 282,57,On Time
 283,57,On Time
-284,57,Late
+284,57,On Time
 285,57,On Time
 286,58,On Time
 287,58,On Time
 288,58,On Time
-289,58,Late
+289,58,On Time
 290,58,On Time
 291,59,On Time
 292,59,On Time
@@ -296,10 +296,10 @@ payment_id,student_id,payment_status
 295,59,On Time
 296,60,On Time
 297,60,On Time
-298,60,On Time
-299,60,Late
+298,60,Late
+299,60,On Time
 300,60,On Time
-301,61,Late
+301,61,On Time
 302,61,On Time
 303,61,On Time
 304,61,On Time
@@ -308,15 +308,15 @@ payment_id,student_id,payment_status
 307,62,On Time
 308,62,On Time
 309,62,On Time
-310,62,On Time
-311,63,On Time
+310,62,Late
+311,63,Late
 312,63,On Time
 313,63,On Time
 314,63,On Time
 315,63,On Time
 316,64,On Time
 317,64,On Time
-318,64,Late
+318,64,On Time
 319,64,On Time
 320,64,On Time
 321,65,On Time
@@ -328,54 +328,54 @@ payment_id,student_id,payment_status
 327,66,On Time
 328,66,On Time
 329,66,On Time
-330,66,Late
-331,67,Late
+330,66,On Time
+331,67,On Time
 332,67,On Time
-333,67,On Time
+333,67,Late
 334,67,On Time
 335,67,On Time
 336,68,On Time
 337,68,On Time
 338,68,On Time
-339,68,On Time
+339,68,Late
 340,68,On Time
 341,69,On Time
 342,69,On Time
 343,69,On Time
 344,69,On Time
-345,69,On Time
-346,70,On Time
+345,69,Late
+346,70,Late
 347,70,On Time
 348,70,On Time
 349,70,On Time
 350,70,On Time
 351,71,On Time
 352,71,On Time
-353,71,Late
+353,71,On Time
 354,71,On Time
 355,71,On Time
 356,72,On Time
 357,72,On Time
 358,72,On Time
-359,72,Late
+359,72,On Time
 360,72,On Time
 361,73,On Time
 362,73,On Time
 363,73,On Time
 364,73,On Time
 365,73,Late
-366,74,Late
+366,74,On Time
 367,74,On Time
 368,74,On Time
 369,74,On Time
 370,74,On Time
 371,75,On Time
-372,75,On Time
+372,75,Late
 373,75,On Time
 374,75,On Time
 375,75,On Time
 376,76,On Time
-377,76,On Time
+377,76,Late
 378,76,On Time
 379,76,On Time
 380,76,On Time
@@ -383,23 +383,23 @@ payment_id,student_id,payment_status
 382,77,On Time
 383,77,On Time
 384,77,On Time
-385,77,Late
+385,77,On Time
 386,78,On Time
 387,78,On Time
 388,78,On Time
 389,78,On Time
 390,78,On Time
 391,79,On Time
-392,79,Late
+392,79,On Time
 393,79,On Time
 394,79,On Time
 395,79,On Time
 396,80,On Time
-397,80,Late
+397,80,On Time
 398,80,On Time
 399,80,On Time
 400,80,On Time
-401,81,On Time
+401,81,Late
 402,81,On Time
 403,81,On Time
 404,81,On Time
@@ -408,43 +408,43 @@ payment_id,student_id,payment_status
 407,82,On Time
 408,82,On Time
 409,82,On Time
-410,82,On Time
+410,82,Late
 411,83,On Time
 412,83,On Time
 413,83,On Time
 414,83,On Time
-415,83,On Time
+415,83,Late
 416,84,On Time
 417,84,On Time
 418,84,On Time
 419,84,On Time
 420,84,On Time
 421,85,Late
-422,85,On Time
+422,85,Late
 423,85,On Time
 424,85,On Time
 425,85,On Time
-426,86,On Time
+426,86,Late
 427,86,On Time
 428,86,On Time
 429,86,On Time
-430,86,Late
+430,86,On Time
 431,87,On Time
 432,87,On Time
 433,87,On Time
 434,87,On Time
-435,87,Late
+435,87,On Time
 436,88,On Time
 437,88,On Time
 438,88,On Time
 439,88,On Time
 440,88,On Time
 441,89,Late
-442,89,Late
+442,89,On Time
 443,89,On Time
 444,89,On Time
 445,89,On Time
-446,90,Late
+446,90,On Time
 447,90,On Time
 448,90,On Time
 449,90,On Time
@@ -458,8 +458,8 @@ payment_id,student_id,payment_status
 457,92,On Time
 458,92,On Time
 459,92,On Time
-460,92,On Time
-461,93,Late
+460,92,Late
+461,93,On Time
 462,93,On Time
 463,93,On Time
 464,93,On Time
@@ -476,10 +476,10 @@ payment_id,student_id,payment_status
 475,95,On Time
 476,96,On Time
 477,96,On Time
-478,96,On Time
+478,96,Late
 479,96,On Time
-480,96,Late
-481,97,On Time
+480,96,On Time
+481,97,Late
 482,97,On Time
 483,97,On Time
 484,97,On Time
@@ -491,11 +491,11 @@ payment_id,student_id,payment_status
 490,98,On Time
 491,99,On Time
 492,99,On Time
-493,99,On Time
-494,99,On Time
-495,99,On Time
+493,99,Late
+494,99,Late
+495,99,Late
 496,100,On Time
 497,100,On Time
-498,100,Late
+498,100,On Time
 499,100,On Time
 500,100,On Time
